@@ -4,6 +4,9 @@ local.properties
 .idea/
 build/
 .DS_Store
-captures/
+# Android Studio's screenshot folder, at the repo root ONLY.
+# Must stay anchored: an unanchored "captures/" also matches
+# docs/port-spec/captures/, which holds the API schemas Phase 1c builds the DTOs from.
+/captures/
 *.keystore
 *.jks

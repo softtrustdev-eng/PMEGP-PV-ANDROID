@@ -1,0 +1,10 @@
+{
+  "success": "bool",
+  "data": {
+    "TotalCount": "int",
+    "IsWorkingCount": "int",
+    "IsDefunctCount": "int",
+    "IsNonTracableCount": "int",
+    "isPendingCount": "int"
+  }
+}
