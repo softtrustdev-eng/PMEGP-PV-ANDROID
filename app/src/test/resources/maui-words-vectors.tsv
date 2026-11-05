@@ -1,0 +1,532 @@
+0	Zero
+1	Rupees One Only
+9	Rupees Nine Only
+10	Rupees Ten Only
+11	Rupees Eleven Only
+19	Rupees Nineteen Only
+20	Rupees Twenty Only
+21	Rupees Twenty One Only
+99	Rupees Ninety Nine Only
+100	Rupees One Hundred Only
+101	Rupees One Hundred One Only
+999	Rupees Nine Hundred Ninety Nine Only
+1000	Rupees One Thousand Only
+1001	Rupees One Thousand One Only
+9999	Rupees Nine Thousand Nine Hundred Ninety Nine Only
+10000	Rupees Ten Thousand Only
+99999	Rupees Ninety Nine Thousand Nine Hundred Ninety Nine Only
+100000	Rupees One Lakh Only
+100001	Rupees One Lakh One Only
+999999	Rupees Nine Lakh Ninety Nine Thousand Nine Hundred Ninety Nine Only
+1000000	Rupees Ten Lakh Only
+9999999	Rupees Ninety Nine Lakh Ninety Nine Thousand Nine Hundred Ninety Nine Only
+10000000	Rupees One Crore Only
+10000001	Rupees One Crore One Only
+99999999	Rupees Nine Crore Ninety Nine Lakh Ninety Nine Thousand Nine Hundred Ninety Nine Only
+123456789	Rupees Twelve Crore Thirty Four Lakh Fifty Six Thousand Seven Hundred Eighty Nine Only
+800000	Rupees Eight Lakh Only
+900000	Rupees Nine Lakh Only
+200000	Rupees Two Lakh Only
+150000	Rupees One Lakh Fifty Thousand Only
+12000	Rupees Twelve Thousand Only
+125000	Rupees One Lakh Twenty Five Thousand Only
+95299246	Rupees Nine Crore Fifty Two Lakh Ninety Nine Thousand Two Hundred Forty Six Only
+41055891	Rupees Four Crore Ten Lakh Fifty Five Thousand Eight Hundred Ninety One Only
+59009795	Rupees Five Crore Ninety Lakh Nine Thousand Seven Hundred Ninety Five Only
+99326684	Rupees Nine Crore Ninety Three Lakh Twenty Six Thousand Six Hundred Eighty Four Only
+97043511	Rupees Nine Crore Seventy Lakh Forty Three Thousand Five Hundred Eleven Only
+84901590	Rupees Eight Crore Forty Nine Lakh One Thousand Five Hundred Ninety Only
+40639278	Rupees Four Crore Six Lakh Thirty Nine Thousand Two Hundred Seventy Eight Only
+7187689	Rupees Seventy One Lakh Eighty Seven Thousand Six Hundred Eighty Nine Only
+50373568	Rupees Five Crore Three Lakh Seventy Three Thousand Five Hundred Sixty Eight Only
+66753897	Rupees Six Crore Sixty Seven Lakh Fifty Three Thousand Eight Hundred Ninety Seven Only
+2015693	Rupees Twenty Lakh Fifteen Thousand Six Hundred Ninety Three Only
+58232697	Rupees Five Crore Eighty Two Lakh Thirty Two Thousand Six Hundred Ninety Seven Only
+56639060	Rupees Five Crore Sixty Six Lakh Thirty Nine Thousand Sixty Only
+52916761	Rupees Five Crore Twenty Nine Lakh Sixteen Thousand Seven Hundred Sixty One Only
+87998491	Rupees Eight Crore Seventy Nine Lakh Ninety Eight Thousand Four Hundred Ninety One Only
+11847600	Rupees One Crore Eighteen Lakh Forty Seven Thousand Six Hundred Only
+23001855	Rupees Two Crore Thirty Lakh One Thousand Eight Hundred Fifty Five Only
+73529526	Rupees Seven Crore Thirty Five Lakh Twenty Nine Thousand Five Hundred Twenty Six Only
+76160089	Rupees Seven Crore Sixty One Lakh Sixty Thousand Eighty Nine Only
+12936773	Rupees One Crore Twenty Nine Lakh Thirty Six Thousand Seven Hundred Seventy Three Only
+4793935	Rupees Forty Seven Lakh Ninety Three Thousand Nine Hundred Thirty Five Only
+73897749	Rupees Seven Crore Thirty Eight Lakh Ninety Seven Thousand Seven Hundred Forty Nine Only
+528797	Rupees Five Lakh Twenty Eight Thousand Seven Hundred Ninety Seven Only
+93225790	Rupees Nine Crore Thirty Two Lakh Twenty Five Thousand Seven Hundred Ninety Only
+24638192	Rupees Two Crore Forty Six Lakh Thirty Eight Thousand One Hundred Ninety Two Only
+5137594	Rupees Fifty One Lakh Thirty Seven Thousand Five Hundred Ninety Four Only
+13592087	Rupees One Crore Thirty Five Lakh Ninety Two Thousand Eighty Seven Only
+39743317	Rupees Three Crore Ninety Seven Lakh Forty Three Thousand Three Hundred Seventeen Only
+81521612	Rupees Eight Crore Fifteen Lakh Twenty One Thousand Six Hundred Twelve Only
+9379843	Rupees Ninety Three Lakh Seventy Nine Thousand Eight Hundred Forty Three Only
+61381068	Rupees Six Crore Thirteen Lakh Eighty One Thousand Sixty Eight Only
+73565248	Rupees Seven Crore Thirty Five Lakh Sixty Five Thousand Two Hundred Forty Eight Only
+26071728	Rupees Two Crore Sixty Lakh Seventy One Thousand Seven Hundred Twenty Eight Only
+91898178	Rupees Nine Crore Eighteen Lakh Ninety Eight Thousand One Hundred Seventy Eight Only
+52945148	Rupees Five Crore Twenty Nine Lakh Forty Five Thousand One Hundred Forty Eight Only
+9999086	Rupees Ninety Nine Lakh Ninety Nine Thousand Eighty Six Only
+81329086	Rupees Eight Crore Thirteen Lakh Twenty Nine Thousand Eighty Six Only
+85641348	Rupees Eight Crore Fifty Six Lakh Forty One Thousand Three Hundred Forty Eight Only
+52953883	Rupees Five Crore Twenty Nine Lakh Fifty Three Thousand Eight Hundred Eighty Three Only
+67829221	Rupees Six Crore Seventy Eight Lakh Twenty Nine Thousand Two Hundred Twenty One Only
+61771702	Rupees Six Crore Seventeen Lakh Seventy One Thousand Seven Hundred Two Only
+10840800	Rupees One Crore Eight Lakh Forty Thousand Eight Hundred Only
+17425352	Rupees One Crore Seventy Four Lakh Twenty Five Thousand Three Hundred Fifty Two Only
+98707953	Rupees Nine Crore Eighty Seven Lakh Seven Thousand Nine Hundred Fifty Three Only
+50426822	Rupees Five Crore Four Lakh Twenty Six Thousand Eight Hundred Twenty Two Only
+60404068	Rupees Six Crore Four Lakh Four Thousand Sixty Eight Only
+53420308	Rupees Five Crore Thirty Four Lakh Twenty Thousand Three Hundred Eight Only
+66348269	Rupees Six Crore Sixty Three Lakh Forty Eight Thousand Two Hundred Sixty Nine Only
+66924065	Rupees Six Crore Sixty Nine Lakh Twenty Four Thousand Sixty Five Only
+39835631	Rupees Three Crore Ninety Eight Lakh Thirty Five Thousand Six Hundred Thirty One Only
+35588451	Rupees Three Crore Fifty Five Lakh Eighty Eight Thousand Four Hundred Fifty One Only
+42266180	Rupees Four Crore Twenty Two Lakh Sixty Six Thousand One Hundred Eighty Only
+58015998	Rupees Five Crore Eighty Lakh Fifteen Thousand Nine Hundred Ninety Eight Only
+17494027	Rupees One Crore Seventy Four Lakh Ninety Four Thousand Twenty Seven Only
+61259749	Rupees Six Crore Twelve Lakh Fifty Nine Thousand Seven Hundred Forty Nine Only
+21401496	Rupees Two Crore Fourteen Lakh One Thousand Four Hundred Ninety Six Only
+40527094	Rupees Four Crore Five Lakh Twenty Seven Thousand Ninety Four Only
+65784004	Rupees Six Crore Fifty Seven Lakh Eighty Four Thousand Four Only
+74688492	Rupees Seven Crore Forty Six Lakh Eighty Eight Thousand Four Hundred Ninety Two Only
+91905916	Rupees Nine Crore Nineteen Lakh Five Thousand Nine Hundred Sixteen Only
+71309503	Rupees Seven Crore Thirteen Lakh Nine Thousand Five Hundred Three Only
+895960	Rupees Eight Lakh Ninety Five Thousand Nine Hundred Sixty Only
+25666076	Rupees Two Crore Fifty Six Lakh Sixty Six Thousand Seventy Six Only
+40993725	Rupees Four Crore Nine Lakh Ninety Three Thousand Seven Hundred Twenty Five Only
+5372829	Rupees Fifty Three Lakh Seventy Two Thousand Eight Hundred Twenty Nine Only
+28450444	Rupees Two Crore Eighty Four Lakh Fifty Thousand Four Hundred Forty Four Only
+32160969	Rupees Three Crore Twenty One Lakh Sixty Thousand Nine Hundred Sixty Nine Only
+64740881	Rupees Six Crore Forty Seven Lakh Forty Thousand Eight Hundred Eighty One Only
+99971612	Rupees Nine Crore Ninety Nine Lakh Seventy One Thousand Six Hundred Twelve Only
+77999404	Rupees Seven Crore Seventy Nine Lakh Ninety Nine Thousand Four Hundred Four Only
+30518513	Rupees Three Crore Five Lakh Eighteen Thousand Five Hundred Thirteen Only
+37360506	Rupees Three Crore Seventy Three Lakh Sixty Thousand Five Hundred Six Only
+20575643	Rupees Two Crore Five Lakh Seventy Five Thousand Six Hundred Forty Three Only
+8330868	Rupees Eighty Three Lakh Thirty Thousand Eight Hundred Sixty Eight Only
+51165071	Rupees Five Crore Eleven Lakh Sixty Five Thousand Seventy One Only
+93953134	Rupees Nine Crore Thirty Nine Lakh Fifty Three Thousand One Hundred Thirty Four Only
+56472397	Rupees Five Crore Sixty Four Lakh Seventy Two Thousand Three Hundred Ninety Seven Only
+1820843	Rupees Eighteen Lakh Twenty Thousand Eight Hundred Forty Three Only
+42798968	Rupees Four Crore Twenty Seven Lakh Ninety Eight Thousand Nine Hundred Sixty Eight Only
+64234123	Rupees Six Crore Forty Two Lakh Thirty Four Thousand One Hundred Twenty Three Only
+51717285	Rupees Five Crore Seventeen Lakh Seventeen Thousand Two Hundred Eighty Five Only
+47243817	Rupees Four Crore Seventy Two Lakh Forty Three Thousand Eight Hundred Seventeen Only
+72819252	Rupees Seven Crore Twenty Eight Lakh Nineteen Thousand Two Hundred Fifty Two Only
+41685981	Rupees Four Crore Sixteen Lakh Eighty Five Thousand Nine Hundred Eighty One Only
+73791392	Rupees Seven Crore Thirty Seven Lakh Ninety One Thousand Three Hundred Ninety Two Only
+19114887	Rupees One Crore Ninety One Lakh Fourteen Thousand Eight Hundred Eighty Seven Only
+15549250	Rupees One Crore Fifty Five Lakh Forty Nine Thousand Two Hundred Fifty Only
+8577700	Rupees Eighty Five Lakh Seventy Seven Thousand Seven Hundred Only
+30638429	Rupees Three Crore Six Lakh Thirty Eight Thousand Four Hundred Twenty Nine Only
+31543651	Rupees Three Crore Fifteen Lakh Forty Three Thousand Six Hundred Fifty One Only
+69471992	Rupees Six Crore Ninety Four Lakh Seventy One Thousand Nine Hundred Ninety Two Only
+15545081	Rupees One Crore Fifty Five Lakh Forty Five Thousand Eighty One Only
+10952856	Rupees One Crore Nine Lakh Fifty Two Thousand Eight Hundred Fifty Six Only
+61047966	Rupees Six Crore Ten Lakh Forty Seven Thousand Nine Hundred Sixty Six Only
+96519717	Rupees Nine Crore Sixty Five Lakh Nineteen Thousand Seven Hundred Seventeen Only
+60875742	Rupees Six Crore Eight Lakh Seventy Five Thousand Seven Hundred Forty Two Only
+85174724	Rupees Eight Crore Fifty One Lakh Seventy Four Thousand Seven Hundred Twenty Four Only
+76431627	Rupees Seven Crore Sixty Four Lakh Thirty One Thousand Six Hundred Twenty Seven Only
+93335124	Rupees Nine Crore Thirty Three Lakh Thirty Five Thousand One Hundred Twenty Four Only
+21976377	Rupees Two Crore Nineteen Lakh Seventy Six Thousand Three Hundred Seventy Seven Only
+28243098	Rupees Two Crore Eighty Two Lakh Forty Three Thousand Ninety Eight Only
+88679427	Rupees Eight Crore Eighty Six Lakh Seventy Nine Thousand Four Hundred Twenty Seven Only
+66376656	Rupees Six Crore Sixty Three Lakh Seventy Six Thousand Six Hundred Fifty Six Only
+88924660	Rupees Eight Crore Eighty Nine Lakh Twenty Four Thousand Six Hundred Sixty Only
+9317117	Rupees Ninety Three Lakh Seventeen Thousand One Hundred Seventeen Only
+98227944	Rupees Nine Crore Eighty Two Lakh Twenty Seven Thousand Nine Hundred Forty Four Only
+21690537	Rupees Two Crore Sixteen Lakh Ninety Thousand Five Hundred Thirty Seven Only
+49685130	Rupees Four Crore Ninety Six Lakh Eighty Five Thousand One Hundred Thirty Only
+66328956	Rupees Six Crore Sixty Three Lakh Twenty Eight Thousand Nine Hundred Fifty Six Only
+67306614	Rupees Six Crore Seventy Three Lakh Six Thousand Six Hundred Fourteen Only
+64929099	Rupees Six Crore Forty Nine Lakh Twenty Nine Thousand Ninety Nine Only
+38706250	Rupees Three Crore Eighty Seven Lakh Six Thousand Two Hundred Fifty Only
+22985036	Rupees Two Crore Twenty Nine Lakh Eighty Five Thousand Thirty Six Only
+10454368	Rupees One Crore Four Lakh Fifty Four Thousand Three Hundred Sixty Eight Only
+40188630	Rupees Four Crore One Lakh Eighty Eight Thousand Six Hundred Thirty Only
+24065685	Rupees Two Crore Forty Lakh Sixty Five Thousand Six Hundred Eighty Five Only
+28076707	Rupees Two Crore Eighty Lakh Seventy Six Thousand Seven Hundred Seven Only
+83980094	Rupees Eight Crore Thirty Nine Lakh Eighty Thousand Ninety Four Only
+67202332	Rupees Six Crore Seventy Two Lakh Two Thousand Three Hundred Thirty Two Only
+86257941	Rupees Eight Crore Sixty Two Lakh Fifty Seven Thousand Nine Hundred Forty One Only
+12901194	Rupees One Crore Twenty Nine Lakh One Thousand One Hundred Ninety Four Only
+23583269	Rupees Two Crore Thirty Five Lakh Eighty Three Thousand Two Hundred Sixty Nine Only
+34102451	Rupees Three Crore Forty One Lakh Two Thousand Four Hundred Fifty One Only
+68427960	Rupees Six Crore Eighty Four Lakh Twenty Seven Thousand Nine Hundred Sixty Only
+8527411	Rupees Eighty Five Lakh Twenty Seven Thousand Four Hundred Eleven Only
+14973431	Rupees One Crore Forty Nine Lakh Seventy Three Thousand Four Hundred Thirty One Only
+26407650	Rupees Two Crore Sixty Four Lakh Seven Thousand Six Hundred Fifty Only
+59527676	Rupees Five Crore Ninety Five Lakh Twenty Seven Thousand Six Hundred Seventy Six Only
+11811150	Rupees One Crore Eighteen Lakh Eleven Thousand One Hundred Fifty Only
+90289329	Rupees Nine Crore Two Lakh Eighty Nine Thousand Three Hundred Twenty Nine Only
+8778409	Rupees Eighty Seven Lakh Seventy Eight Thousand Four Hundred Nine Only
+80040769	Rupees Eight Crore Forty Thousand Seven Hundred Sixty Nine Only
+8485718	Rupees Eighty Four Lakh Eighty Five Thousand Seven Hundred Eighteen Only
+20822590	Rupees Two Crore Eight Lakh Twenty Two Thousand Five Hundred Ninety Only
+35991024	Rupees Three Crore Fifty Nine Lakh Ninety One Thousand Twenty Four Only
+63037858	Rupees Six Crore Thirty Lakh Thirty Seven Thousand Eight Hundred Fifty Eight Only
+80867161	Rupees Eight Crore Eight Lakh Sixty Seven Thousand One Hundred Sixty One Only
+83894592	Rupees Eight Crore Thirty Eight Lakh Ninety Four Thousand Five Hundred Ninety Two Only
+32368864	Rupees Three Crore Twenty Three Lakh Sixty Eight Thousand Eight Hundred Sixty Four Only
+75563447	Rupees Seven Crore Fifty Five Lakh Sixty Three Thousand Four Hundred Forty Seven Only
+97424350	Rupees Nine Crore Seventy Four Lakh Twenty Four Thousand Three Hundred Fifty Only
+65864119	Rupees Six Crore Fifty Eight Lakh Sixty Four Thousand One Hundred Nineteen Only
+42248744	Rupees Four Crore Twenty Two Lakh Forty Eight Thousand Seven Hundred Forty Four Only
+63331815	Rupees Six Crore Thirty Three Lakh Thirty One Thousand Eight Hundred Fifteen Only
+66614552	Rupees Six Crore Sixty Six Lakh Fourteen Thousand Five Hundred Fifty Two Only
+30765741	Rupees Three Crore Seven Lakh Sixty Five Thousand Seven Hundred Forty One Only
+92560044	Rupees Nine Crore Twenty Five Lakh Sixty Thousand Forty Four Only
+498487	Rupees Four Lakh Ninety Eight Thousand Four Hundred Eighty Seven Only
+20859335	Rupees Two Crore Eight Lakh Fifty Nine Thousand Three Hundred Thirty Five Only
+72454032	Rupees Seven Crore Twenty Four Lakh Fifty Four Thousand Thirty Two Only
+32799034	Rupees Three Crore Twenty Seven Lakh Ninety Nine Thousand Thirty Four Only
+1194629	Rupees Eleven Lakh Ninety Four Thousand Six Hundred Twenty Nine Only
+9229294	Rupees Ninety Two Lakh Twenty Nine Thousand Two Hundred Ninety Four Only
+7077182	Rupees Seventy Lakh Seventy Seven Thousand One Hundred Eighty Two Only
+9075183	Rupees Ninety Lakh Seventy Five Thousand One Hundred Eighty Three Only
+4659829	Rupees Forty Six Lakh Fifty Nine Thousand Eight Hundred Twenty Nine Only
+54576975	Rupees Five Crore Forty Five Lakh Seventy Six Thousand Nine Hundred Seventy Five Only
+97948696	Rupees Nine Crore Seventy Nine Lakh Forty Eight Thousand Six Hundred Ninety Six Only
+80397248	Rupees Eight Crore Three Lakh Ninety Seven Thousand Two Hundred Forty Eight Only
+94343685	Rupees Nine Crore Forty Three Lakh Forty Three Thousand Six Hundred Eighty Five Only
+71820294	Rupees Seven Crore Eighteen Lakh Twenty Thousand Two Hundred Ninety Four Only
+62162860	Rupees Six Crore Twenty One Lakh Sixty Two Thousand Eight Hundred Sixty Only
+37873980	Rupees Three Crore Seventy Eight Lakh Seventy Three Thousand Nine Hundred Eighty Only
+76039626	Rupees Seven Crore Sixty Lakh Thirty Nine Thousand Six Hundred Twenty Six Only
+58528204	Rupees Five Crore Eighty Five Lakh Twenty Eight Thousand Two Hundred Four Only
+84888330	Rupees Eight Crore Forty Eight Lakh Eighty Eight Thousand Three Hundred Thirty Only
+30220531	Rupees Three Crore Two Lakh Twenty Thousand Five Hundred Thirty One Only
+2162446	Rupees Twenty One Lakh Sixty Two Thousand Four Hundred Forty Six Only
+74463344	Rupees Seven Crore Forty Four Lakh Sixty Three Thousand Three Hundred Forty Four Only
+77150772	Rupees Seven Crore Seventy One Lakh Fifty Thousand Seven Hundred Seventy Two Only
+43198524	Rupees Four Crore Thirty One Lakh Ninety Eight Thousand Five Hundred Twenty Four Only
+44182115	Rupees Four Crore Forty One Lakh Eighty Two Thousand One Hundred Fifteen Only
+51611230	Rupees Five Crore Sixteen Lakh Eleven Thousand Two Hundred Thirty Only
+91638885	Rupees Nine Crore Sixteen Lakh Thirty Eight Thousand Eight Hundred Eighty Five Only
+88833591	Rupees Eight Crore Eighty Eight Lakh Thirty Three Thousand Five Hundred Ninety One Only
+47037074	Rupees Four Crore Seventy Lakh Thirty Seven Thousand Seventy Four Only
+81334525	Rupees Eight Crore Thirteen Lakh Thirty Four Thousand Five Hundred Twenty Five Only
+70770636	Rupees Seven Crore Seven Lakh Seventy Thousand Six Hundred Thirty Six Only
+1813408	Rupees Eighteen Lakh Thirteen Thousand Four Hundred Eight Only
+77761669	Rupees Seven Crore Seventy Seven Lakh Sixty One Thousand Six Hundred Sixty Nine Only
+22413386	Rupees Two Crore Twenty Four Lakh Thirteen Thousand Three Hundred Eighty Six Only
+25909162	Rupees Two Crore Fifty Nine Lakh Nine Thousand One Hundred Sixty Two Only
+38668340	Rupees Three Crore Eighty Six Lakh Sixty Eight Thousand Three Hundred Forty Only
+39357118	Rupees Three Crore Ninety Three Lakh Fifty Seven Thousand One Hundred Eighteen Only
+57490294	Rupees Five Crore Seventy Four Lakh Ninety Thousand Two Hundred Ninety Four Only
+7583780	Rupees Seventy Five Lakh Eighty Three Thousand Seven Hundred Eighty Only
+70811475	Rupees Seven Crore Eight Lakh Eleven Thousand Four Hundred Seventy Five Only
+1408536	Rupees Fourteen Lakh Eight Thousand Five Hundred Thirty Six Only
+11747407	Rupees One Crore Seventeen Lakh Forty Seven Thousand Four Hundred Seven Only
+31331195	Rupees Three Crore Thirteen Lakh Thirty One Thousand One Hundred Ninety Five Only
+8460882	Rupees Eighty Four Lakh Sixty Thousand Eight Hundred Eighty Two Only
+82918464	Rupees Eight Crore Twenty Nine Lakh Eighteen Thousand Four Hundred Sixty Four Only
+3497343	Rupees Thirty Four Lakh Ninety Seven Thousand Three Hundred Forty Three Only
+38025178	Rupees Three Crore Eighty Lakh Twenty Five Thousand One Hundred Seventy Eight Only
+3743153	Rupees Thirty Seven Lakh Forty Three Thousand One Hundred Fifty Three Only
+35261489	Rupees Three Crore Fifty Two Lakh Sixty One Thousand Four Hundred Eighty Nine Only
+27990139	Rupees Two Crore Seventy Nine Lakh Ninety Thousand One Hundred Thirty Nine Only
+66209117	Rupees Six Crore Sixty Two Lakh Nine Thousand One Hundred Seventeen Only
+4803610	Rupees Forty Eight Lakh Three Thousand Six Hundred Ten Only
+81726222	Rupees Eight Crore Seventeen Lakh Twenty Six Thousand Two Hundred Twenty Two Only
+545209	Rupees Five Lakh Forty Five Thousand Two Hundred Nine Only
+90397598	Rupees Nine Crore Three Lakh Ninety Seven Thousand Five Hundred Ninety Eight Only
+26035143	Rupees Two Crore Sixty Lakh Thirty Five Thousand One Hundred Forty Three Only
+43708563	Rupees Four Crore Thirty Seven Lakh Eight Thousand Five Hundred Sixty Three Only
+29255507	Rupees Two Crore Ninety Two Lakh Fifty Five Thousand Five Hundred Seven Only
+88616919	Rupees Eight Crore Eighty Six Lakh Sixteen Thousand Nine Hundred Nineteen Only
+49583398	Rupees Four Crore Ninety Five Lakh Eighty Three Thousand Three Hundred Ninety Eight Only
+17590409	Rupees One Crore Seventy Five Lakh Ninety Thousand Four Hundred Nine Only
+18243591	Rupees One Crore Eighty Two Lakh Forty Three Thousand Five Hundred Ninety One Only
+62038108	Rupees Six Crore Twenty Lakh Thirty Eight Thousand One Hundred Eight Only
+23325304	Rupees Two Crore Thirty Three Lakh Twenty Five Thousand Three Hundred Four Only
+83806339	Rupees Eight Crore Thirty Eight Lakh Six Thousand Three Hundred Thirty Nine Only
+96135288	Rupees Nine Crore Sixty One Lakh Thirty Five Thousand Two Hundred Eighty Eight Only
+2635578	Rupees Twenty Six Lakh Thirty Five Thousand Five Hundred Seventy Eight Only
+71930298	Rupees Seven Crore Nineteen Lakh Thirty Thousand Two Hundred Ninety Eight Only
+45911131	Rupees Four Crore Fifty Nine Lakh Eleven Thousand One Hundred Thirty One Only
+23494520	Rupees Two Crore Thirty Four Lakh Ninety Four Thousand Five Hundred Twenty Only
+98516862	Rupees Nine Crore Eighty Five Lakh Sixteen Thousand Eight Hundred Sixty Two Only
+18549332	Rupees One Crore Eighty Five Lakh Forty Nine Thousand Three Hundred Thirty Two Only
+50944424	Rupees Five Crore Nine Lakh Forty Four Thousand Four Hundred Twenty Four Only
+14076854	Rupees One Crore Forty Lakh Seventy Six Thousand Eight Hundred Fifty Four Only
+28811995	Rupees Two Crore Eighty Eight Lakh Eleven Thousand Nine Hundred Ninety Five Only
+90415039	Rupees Nine Crore Four Lakh Fifteen Thousand Thirty Nine Only
+43132148	Rupees Four Crore Thirty One Lakh Thirty Two Thousand One Hundred Forty Eight Only
+68689889	Rupees Six Crore Eighty Six Lakh Eighty Nine Thousand Eight Hundred Eighty Nine Only
+60280059	Rupees Six Crore Two Lakh Eighty Thousand Fifty Nine Only
+40684771	Rupees Four Crore Six Lakh Eighty Four Thousand Seven Hundred Seventy One Only
+13586052	Rupees One Crore Thirty Five Lakh Eighty Six Thousand Fifty Two Only
+87895731	Rupees Eight Crore Seventy Eight Lakh Ninety Five Thousand Seven Hundred Thirty One Only
+53572101	Rupees Five Crore Thirty Five Lakh Seventy Two Thousand One Hundred One Only
+19046935	Rupees One Crore Ninety Lakh Forty Six Thousand Nine Hundred Thirty Five Only
+15125407	Rupees One Crore Fifty One Lakh Twenty Five Thousand Four Hundred Seven Only
+65967025	Rupees Six Crore Fifty Nine Lakh Sixty Seven Thousand Twenty Five Only
+20087185	Rupees Two Crore Eighty Seven Thousand One Hundred Eighty Five Only
+77216459	Rupees Seven Crore Seventy Two Lakh Sixteen Thousand Four Hundred Fifty Nine Only
+32015788	Rupees Three Crore Twenty Lakh Fifteen Thousand Seven Hundred Eighty Eight Only
+99874019	Rupees Nine Crore Ninety Eight Lakh Seventy Four Thousand Nineteen Only
+94959776	Rupees Nine Crore Forty Nine Lakh Fifty Nine Thousand Seven Hundred Seventy Six Only
+10101610	Rupees One Crore One Lakh One Thousand Six Hundred Ten Only
+68873375	Rupees Six Crore Eighty Eight Lakh Seventy Three Thousand Three Hundred Seventy Five Only
+58000381	Rupees Five Crore Eighty Lakh Three Hundred Eighty One Only
+53221065	Rupees Five Crore Thirty Two Lakh Twenty One Thousand Sixty Five Only
+83164945	Rupees Eight Crore Thirty One Lakh Sixty Four Thousand Nine Hundred Forty Five Only
+49709299	Rupees Four Crore Ninety Seven Lakh Nine Thousand Two Hundred Ninety Nine Only
+8005890	Rupees Eighty Lakh Five Thousand Eight Hundred Ninety Only
+24654543	Rupees Two Crore Forty Six Lakh Fifty Four Thousand Five Hundred Forty Three Only
+86783176	Rupees Eight Crore Sixty Seven Lakh Eighty Three Thousand One Hundred Seventy Six Only
+861764	Rupees Eight Lakh Sixty One Thousand Seven Hundred Sixty Four Only
+66094879	Rupees Six Crore Sixty Lakh Ninety Four Thousand Eight Hundred Seventy Nine Only
+57832021	Rupees Five Crore Seventy Eight Lakh Thirty Two Thousand Twenty One Only
+11766969	Rupees One Crore Seventeen Lakh Sixty Six Thousand Nine Hundred Sixty Nine Only
+29473277	Rupees Two Crore Ninety Four Lakh Seventy Three Thousand Two Hundred Seventy Seven Only
+47659785	Rupees Four Crore Seventy Six Lakh Fifty Nine Thousand Seven Hundred Eighty Five Only
+53859186	Rupees Five Crore Thirty Eight Lakh Fifty Nine Thousand One Hundred Eighty Six Only
+67649367	Rupees Six Crore Seventy Six Lakh Forty Nine Thousand Three Hundred Sixty Seven Only
+71733214	Rupees Seven Crore Seventeen Lakh Thirty Three Thousand Two Hundred Fourteen Only
+99982559	Rupees Nine Crore Ninety Nine Lakh Eighty Two Thousand Five Hundred Fifty Nine Only
+82902994	Rupees Eight Crore Twenty Nine Lakh Two Thousand Nine Hundred Ninety Four Only
+75018674	Rupees Seven Crore Fifty Lakh Eighteen Thousand Six Hundred Seventy Four Only
+68975447	Rupees Six Crore Eighty Nine Lakh Seventy Five Thousand Four Hundred Forty Seven Only
+47932147	Rupees Four Crore Seventy Nine Lakh Thirty Two Thousand One Hundred Forty Seven Only
+35997346	Rupees Three Crore Fifty Nine Lakh Ninety Seven Thousand Three Hundred Forty Six Only
+29694677	Rupees Two Crore Ninety Six Lakh Ninety Four Thousand Six Hundred Seventy Seven Only
+64671489	Rupees Six Crore Forty Six Lakh Seventy One Thousand Four Hundred Eighty Nine Only
+42991172	Rupees Four Crore Twenty Nine Lakh Ninety One Thousand One Hundred Seventy Two Only
+8199896	Rupees Eighty One Lakh Ninety Nine Thousand Eight Hundred Ninety Six Only
+17839313	Rupees One Crore Seventy Eight Lakh Thirty Nine Thousand Three Hundred Thirteen Only
+76048102	Rupees Seven Crore Sixty Lakh Forty Eight Thousand One Hundred Two Only
+25419118	Rupees Two Crore Fifty Four Lakh Nineteen Thousand One Hundred Eighteen Only
+39914510	Rupees Three Crore Ninety Nine Lakh Fourteen Thousand Five Hundred Ten Only
+46037112	Rupees Four Crore Sixty Lakh Thirty Seven Thousand One Hundred Twelve Only
+28534743	Rupees Two Crore Eighty Five Lakh Thirty Four Thousand Seven Hundred Forty Three Only
+88415251	Rupees Eight Crore Eighty Four Lakh Fifteen Thousand Two Hundred Fifty One Only
+49675956	Rupees Four Crore Ninety Six Lakh Seventy Five Thousand Nine Hundred Fifty Six Only
+92944042	Rupees Nine Crore Twenty Nine Lakh Forty Four Thousand Forty Two Only
+60855789	Rupees Six Crore Eight Lakh Fifty Five Thousand Seven Hundred Eighty Nine Only
+45647050	Rupees Four Crore Fifty Six Lakh Forty Seven Thousand Fifty Only
+40705739	Rupees Four Crore Seven Lakh Five Thousand Seven Hundred Thirty Nine Only
+35126257	Rupees Three Crore Fifty One Lakh Twenty Six Thousand Two Hundred Fifty Seven Only
+44035345	Rupees Four Crore Forty Lakh Thirty Five Thousand Three Hundred Forty Five Only
+73496883	Rupees Seven Crore Thirty Four Lakh Ninety Six Thousand Eight Hundred Eighty Three Only
+39823007	Rupees Three Crore Ninety Eight Lakh Twenty Three Thousand Seven Only
+47491172	Rupees Four Crore Seventy Four Lakh Ninety One Thousand One Hundred Seventy Two Only
+30063710	Rupees Three Crore Sixty Three Thousand Seven Hundred Ten Only
+41805132	Rupees Four Crore Eighteen Lakh Five Thousand One Hundred Thirty Two Only
+89573658	Rupees Eight Crore Ninety Five Lakh Seventy Three Thousand Six Hundred Fifty Eight Only
+67465622	Rupees Six Crore Seventy Four Lakh Sixty Five Thousand Six Hundred Twenty Two Only
+12107839	Rupees One Crore Twenty One Lakh Seven Thousand Eight Hundred Thirty Nine Only
+52437818	Rupees Five Crore Twenty Four Lakh Thirty Seven Thousand Eight Hundred Eighteen Only
+5483245	Rupees Fifty Four Lakh Eighty Three Thousand Two Hundred Forty Five Only
+32033228	Rupees Three Crore Twenty Lakh Thirty Three Thousand Two Hundred Twenty Eight Only
+16971024	Rupees One Crore Sixty Nine Lakh Seventy One Thousand Twenty Four Only
+19941102	Rupees One Crore Ninety Nine Lakh Forty One Thousand One Hundred Two Only
+41126163	Rupees Four Crore Eleven Lakh Twenty Six Thousand One Hundred Sixty Three Only
+20941227	Rupees Two Crore Nine Lakh Forty One Thousand Two Hundred Twenty Seven Only
+22003035	Rupees Two Crore Twenty Lakh Three Thousand Thirty Five Only
+23526388	Rupees Two Crore Thirty Five Lakh Twenty Six Thousand Three Hundred Eighty Eight Only
+18493456	Rupees One Crore Eighty Four Lakh Ninety Three Thousand Four Hundred Fifty Six Only
+6718126	Rupees Sixty Seven Lakh Eighteen Thousand One Hundred Twenty Six Only
+99805994	Rupees Nine Crore Ninety Eight Lakh Five Thousand Nine Hundred Ninety Four Only
+6815229	Rupees Sixty Eight Lakh Fifteen Thousand Two Hundred Twenty Nine Only
+10735074	Rupees One Crore Seven Lakh Thirty Five Thousand Seventy Four Only
+75442645	Rupees Seven Crore Fifty Four Lakh Forty Two Thousand Six Hundred Forty Five Only
+26180369	Rupees Two Crore Sixty One Lakh Eighty Thousand Three Hundred Sixty Nine Only
+11794909	Rupees One Crore Seventeen Lakh Ninety Four Thousand Nine Hundred Nine Only
+83232225	Rupees Eight Crore Thirty Two Lakh Thirty Two Thousand Two Hundred Twenty Five Only
+41058025	Rupees Four Crore Ten Lakh Fifty Eight Thousand Twenty Five Only
+97983828	Rupees Nine Crore Seventy Nine Lakh Eighty Three Thousand Eight Hundred Twenty Eight Only
+60915144	Rupees Six Crore Nine Lakh Fifteen Thousand One Hundred Forty Four Only
+6793578	Rupees Sixty Seven Lakh Ninety Three Thousand Five Hundred Seventy Eight Only
+26086164	Rupees Two Crore Sixty Lakh Eighty Six Thousand One Hundred Sixty Four Only
+59276819	Rupees Five Crore Ninety Two Lakh Seventy Six Thousand Eight Hundred Nineteen Only
+47776736	Rupees Four Crore Seventy Seven Lakh Seventy Six Thousand Seven Hundred Thirty Six Only
+30983329	Rupees Three Crore Nine Lakh Eighty Three Thousand Three Hundred Twenty Nine Only
+95478564	Rupees Nine Crore Fifty Four Lakh Seventy Eight Thousand Five Hundred Sixty Four Only
+8109140	Rupees Eighty One Lakh Nine Thousand One Hundred Forty Only
+88506173	Rupees Eight Crore Eighty Five Lakh Six Thousand One Hundred Seventy Three Only
+99630967	Rupees Nine Crore Ninety Six Lakh Thirty Thousand Nine Hundred Sixty Seven Only
+22866356	Rupees Two Crore Twenty Eight Lakh Sixty Six Thousand Three Hundred Fifty Six Only
+53417514	Rupees Five Crore Thirty Four Lakh Seventeen Thousand Five Hundred Fourteen Only
+40734274	Rupees Four Crore Seven Lakh Thirty Four Thousand Two Hundred Seventy Four Only
+5731474	Rupees Fifty Seven Lakh Thirty One Thousand Four Hundred Seventy Four Only
+23610283	Rupees Two Crore Thirty Six Lakh Ten Thousand Two Hundred Eighty Three Only
+19935873	Rupees One Crore Ninety Nine Lakh Thirty Five Thousand Eight Hundred Seventy Three Only
+7881281	Rupees Seventy Eight Lakh Eighty One Thousand Two Hundred Eighty One Only
+29066087	Rupees Two Crore Ninety Lakh Sixty Six Thousand Eighty Seven Only
+8593641	Rupees Eighty Five Lakh Ninety Three Thousand Six Hundred Forty One Only
+47289088	Rupees Four Crore Seventy Two Lakh Eighty Nine Thousand Eighty Eight Only
+28734729	Rupees Two Crore Eighty Seven Lakh Thirty Four Thousand Seven Hundred Twenty Nine Only
+70941006	Rupees Seven Crore Nine Lakh Forty One Thousand Six Only
+37329400	Rupees Three Crore Seventy Three Lakh Twenty Nine Thousand Four Hundred Only
+27153594	Rupees Two Crore Seventy One Lakh Fifty Three Thousand Five Hundred Ninety Four Only
+33987613	Rupees Three Crore Thirty Nine Lakh Eighty Seven Thousand Six Hundred Thirteen Only
+35320263	Rupees Three Crore Fifty Three Lakh Twenty Thousand Two Hundred Sixty Three Only
+37220115	Rupees Three Crore Seventy Two Lakh Twenty Thousand One Hundred Fifteen Only
+62761808	Rupees Six Crore Twenty Seven Lakh Sixty One Thousand Eight Hundred Eight Only
+64380362	Rupees Six Crore Forty Three Lakh Eighty Thousand Three Hundred Sixty Two Only
+21310802	Rupees Two Crore Thirteen Lakh Ten Thousand Eight Hundred Two Only
+18268801	Rupees One Crore Eighty Two Lakh Sixty Eight Thousand Eight Hundred One Only
+58572907	Rupees Five Crore Eighty Five Lakh Seventy Two Thousand Nine Hundred Seven Only
+48515632	Rupees Four Crore Eighty Five Lakh Fifteen Thousand Six Hundred Thirty Two Only
+69481793	Rupees Six Crore Ninety Four Lakh Eighty One Thousand Seven Hundred Ninety Three Only
+51192694	Rupees Five Crore Eleven Lakh Ninety Two Thousand Six Hundred Ninety Four Only
+45644240	Rupees Four Crore Fifty Six Lakh Forty Four Thousand Two Hundred Forty Only
+79397081	Rupees Seven Crore Ninety Three Lakh Ninety Seven Thousand Eighty One Only
+72756408	Rupees Seven Crore Twenty Seven Lakh Fifty Six Thousand Four Hundred Eight Only
+69194288	Rupees Six Crore Ninety One Lakh Ninety Four Thousand Two Hundred Eighty Eight Only
+88957773	Rupees Eight Crore Eighty Nine Lakh Fifty Seven Thousand Seven Hundred Seventy Three Only
+45647598	Rupees Four Crore Fifty Six Lakh Forty Seven Thousand Five Hundred Ninety Eight Only
+12832087	Rupees One Crore Twenty Eight Lakh Thirty Two Thousand Eighty Seven Only
+33496861	Rupees Three Crore Thirty Four Lakh Ninety Six Thousand Eight Hundred Sixty One Only
+23895420	Rupees Two Crore Thirty Eight Lakh Ninety Five Thousand Four Hundred Twenty Only
+95627099	Rupees Nine Crore Fifty Six Lakh Twenty Seven Thousand Ninety Nine Only
+53300612	Rupees Five Crore Thirty Three Lakh Six Hundred Twelve Only
+59071719	Rupees Five Crore Ninety Lakh Seventy One Thousand Seven Hundred Nineteen Only
+1083755	Rupees Ten Lakh Eighty Three Thousand Seven Hundred Fifty Five Only
+87124790	Rupees Eight Crore Seventy One Lakh Twenty Four Thousand Seven Hundred Ninety Only
+55506771	Rupees Five Crore Fifty Five Lakh Six Thousand Seven Hundred Seventy One Only
+18299088	Rupees One Crore Eighty Two Lakh Ninety Nine Thousand Eighty Eight Only
+82728821	Rupees Eight Crore Twenty Seven Lakh Twenty Eight Thousand Eight Hundred Twenty One Only
+74638583	Rupees Seven Crore Forty Six Lakh Thirty Eight Thousand Five Hundred Eighty Three Only
+93768937	Rupees Nine Crore Thirty Seven Lakh Sixty Eight Thousand Nine Hundred Thirty Seven Only
+69249099	Rupees Six Crore Ninety Two Lakh Forty Nine Thousand Ninety Nine Only
+89974137	Rupees Eight Crore Ninety Nine Lakh Seventy Four Thousand One Hundred Thirty Seven Only
+69464177	Rupees Six Crore Ninety Four Lakh Sixty Four Thousand One Hundred Seventy Seven Only
+98932570	Rupees Nine Crore Eighty Nine Lakh Thirty Two Thousand Five Hundred Seventy Only
+25289206	Rupees Two Crore Fifty Two Lakh Eighty Nine Thousand Two Hundred Six Only
+12456472	Rupees One Crore Twenty Four Lakh Fifty Six Thousand Four Hundred Seventy Two Only
+93763213	Rupees Nine Crore Thirty Seven Lakh Sixty Three Thousand Two Hundred Thirteen Only
+32716755	Rupees Three Crore Twenty Seven Lakh Sixteen Thousand Seven Hundred Fifty Five Only
+43728778	Rupees Four Crore Thirty Seven Lakh Twenty Eight Thousand Seven Hundred Seventy Eight Only
+67195371	Rupees Six Crore Seventy One Lakh Ninety Five Thousand Three Hundred Seventy One Only
+81362166	Rupees Eight Crore Thirteen Lakh Sixty Two Thousand One Hundred Sixty Six Only
+64293448	Rupees Six Crore Forty Two Lakh Ninety Three Thousand Four Hundred Forty Eight Only
+4901881	Rupees Forty Nine Lakh One Thousand Eight Hundred Eighty One Only
+71252481	Rupees Seven Crore Twelve Lakh Fifty Two Thousand Four Hundred Eighty One Only
+54538779	Rupees Five Crore Forty Five Lakh Thirty Eight Thousand Seven Hundred Seventy Nine Only
+77966043	Rupees Seven Crore Seventy Nine Lakh Sixty Six Thousand Forty Three Only
+40538792	Rupees Four Crore Five Lakh Thirty Eight Thousand Seven Hundred Ninety Two Only
+35124872	Rupees Three Crore Fifty One Lakh Twenty Four Thousand Eight Hundred Seventy Two Only
+59871799	Rupees Five Crore Ninety Eight Lakh Seventy One Thousand Seven Hundred Ninety Nine Only
+19635868	Rupees One Crore Ninety Six Lakh Thirty Five Thousand Eight Hundred Sixty Eight Only
+1641489	Rupees Sixteen Lakh Forty One Thousand Four Hundred Eighty Nine Only
+15902642	Rupees One Crore Fifty Nine Lakh Two Thousand Six Hundred Forty Two Only
+37444145	Rupees Three Crore Seventy Four Lakh Forty Four Thousand One Hundred Forty Five Only
+13433979	Rupees One Crore Thirty Four Lakh Thirty Three Thousand Nine Hundred Seventy Nine Only
+31526494	Rupees Three Crore Fifteen Lakh Twenty Six Thousand Four Hundred Ninety Four Only
+80687001	Rupees Eight Crore Six Lakh Eighty Seven Thousand One Only
+76248544	Rupees Seven Crore Sixty Two Lakh Forty Eight Thousand Five Hundred Forty Four Only
+36136360	Rupees Three Crore Sixty One Lakh Thirty Six Thousand Three Hundred Sixty Only
+75637018	Rupees Seven Crore Fifty Six Lakh Thirty Seven Thousand Eighteen Only
+8873590	Rupees Eighty Eight Lakh Seventy Three Thousand Five Hundred Ninety Only
+3011714	Rupees Thirty Lakh Eleven Thousand Seven Hundred Fourteen Only
+35539979	Rupees Three Crore Fifty Five Lakh Thirty Nine Thousand Nine Hundred Seventy Nine Only
+83934323	Rupees Eight Crore Thirty Nine Lakh Thirty Four Thousand Three Hundred Twenty Three Only
+54746695	Rupees Five Crore Forty Seven Lakh Forty Six Thousand Six Hundred Ninety Five Only
+232694	Rupees Two Lakh Thirty Two Thousand Six Hundred Ninety Four Only
+61218557	Rupees Six Crore Twelve Lakh Eighteen Thousand Five Hundred Fifty Seven Only
+76180062	Rupees Seven Crore Sixty One Lakh Eighty Thousand Sixty Two Only
+80464510	Rupees Eight Crore Four Lakh Sixty Four Thousand Five Hundred Ten Only
+47467202	Rupees Four Crore Seventy Four Lakh Sixty Seven Thousand Two Hundred Two Only
+56737815	Rupees Five Crore Sixty Seven Lakh Thirty Seven Thousand Eight Hundred Fifteen Only
+95194559	Rupees Nine Crore Fifty One Lakh Ninety Four Thousand Five Hundred Fifty Nine Only
+12930843	Rupees One Crore Twenty Nine Lakh Thirty Thousand Eight Hundred Forty Three Only
+69103309	Rupees Six Crore Ninety One Lakh Three Thousand Three Hundred Nine Only
+66301490	Rupees Six Crore Sixty Three Lakh One Thousand Four Hundred Ninety Only
+42533254	Rupees Four Crore Twenty Five Lakh Thirty Three Thousand Two Hundred Fifty Four Only
+31333651	Rupees Three Crore Thirteen Lakh Thirty Three Thousand Six Hundred Fifty One Only
+48398730	Rupees Four Crore Eighty Three Lakh Ninety Eight Thousand Seven Hundred Thirty Only
+87819237	Rupees Eight Crore Seventy Eight Lakh Nineteen Thousand Two Hundred Thirty Seven Only
+46544975	Rupees Four Crore Sixty Five Lakh Forty Four Thousand Nine Hundred Seventy Five Only
+9158746	Rupees Ninety One Lakh Fifty Eight Thousand Seven Hundred Forty Six Only
+14967979	Rupees One Crore Forty Nine Lakh Sixty Seven Thousand Nine Hundred Seventy Nine Only
+83174215	Rupees Eight Crore Thirty One Lakh Seventy Four Thousand Two Hundred Fifteen Only
+22857022	Rupees Two Crore Twenty Eight Lakh Fifty Seven Thousand Twenty Two Only
+55002715	Rupees Five Crore Fifty Lakh Two Thousand Seven Hundred Fifteen Only
+92127448	Rupees Nine Crore Twenty One Lakh Twenty Seven Thousand Four Hundred Forty Eight Only
+53346456	Rupees Five Crore Thirty Three Lakh Forty Six Thousand Four Hundred Fifty Six Only
+52529992	Rupees Five Crore Twenty Five Lakh Twenty Nine Thousand Nine Hundred Ninety Two Only
+56030197	Rupees Five Crore Sixty Lakh Thirty Thousand One Hundred Ninety Seven Only
+67406076	Rupees Six Crore Seventy Four Lakh Six Thousand Seventy Six Only
+44602205	Rupees Four Crore Forty Six Lakh Two Thousand Two Hundred Five Only
+36207928	Rupees Three Crore Sixty Two Lakh Seven Thousand Nine Hundred Twenty Eight Only
+57626852	Rupees Five Crore Seventy Six Lakh Twenty Six Thousand Eight Hundred Fifty Two Only
+57079736	Rupees Five Crore Seventy Lakh Seventy Nine Thousand Seven Hundred Thirty Six Only
+34855188	Rupees Three Crore Forty Eight Lakh Fifty Five Thousand One Hundred Eighty Eight Only
+64183656	Rupees Six Crore Forty One Lakh Eighty Three Thousand Six Hundred Fifty Six Only
+45822186	Rupees Four Crore Fifty Eight Lakh Twenty Two Thousand One Hundred Eighty Six Only
+80359124	Rupees Eight Crore Three Lakh Fifty Nine Thousand One Hundred Twenty Four Only
+50155186	Rupees Five Crore One Lakh Fifty Five Thousand One Hundred Eighty Six Only
+71019787	Rupees Seven Crore Ten Lakh Nineteen Thousand Seven Hundred Eighty Seven Only
+93320222	Rupees Nine Crore Thirty Three Lakh Twenty Thousand Two Hundred Twenty Two Only
+1785981	Rupees Seventeen Lakh Eighty Five Thousand Nine Hundred Eighty One Only
+60074281	Rupees Six Crore Seventy Four Thousand Two Hundred Eighty One Only
+87657670	Rupees Eight Crore Seventy Six Lakh Fifty Seven Thousand Six Hundred Seventy Only
+3133984	Rupees Thirty One Lakh Thirty Three Thousand Nine Hundred Eighty Four Only
+24441308	Rupees Two Crore Forty Four Lakh Forty One Thousand Three Hundred Eight Only
+88710645	Rupees Eight Crore Eighty Seven Lakh Ten Thousand Six Hundred Forty Five Only
+46799333	Rupees Four Crore Sixty Seven Lakh Ninety Nine Thousand Three Hundred Thirty Three Only
+71142654	Rupees Seven Crore Eleven Lakh Forty Two Thousand Six Hundred Fifty Four Only
+70900725	Rupees Seven Crore Nine Lakh Seven Hundred Twenty Five Only
+192842	Rupees One Lakh Ninety Two Thousand Eight Hundred Forty Two Only
+32288270	Rupees Three Crore Twenty Two Lakh Eighty Eight Thousand Two Hundred Seventy Only
+88429307	Rupees Eight Crore Eighty Four Lakh Twenty Nine Thousand Three Hundred Seven Only
+89591385	Rupees Eight Crore Ninety Five Lakh Ninety One Thousand Three Hundred Eighty Five Only
+66478272	Rupees Six Crore Sixty Four Lakh Seventy Eight Thousand Two Hundred Seventy Two Only
+93905610	Rupees Nine Crore Thirty Nine Lakh Five Thousand Six Hundred Ten Only
+19837499	Rupees One Crore Ninety Eight Lakh Thirty Seven Thousand Four Hundred Ninety Nine Only
+12682957	Rupees One Crore Twenty Six Lakh Eighty Two Thousand Nine Hundred Fifty Seven Only
+28931608	Rupees Two Crore Eighty Nine Lakh Thirty One Thousand Six Hundred Eight Only
+62619246	Rupees Six Crore Twenty Six Lakh Nineteen Thousand Two Hundred Forty Six Only
+46886237	Rupees Four Crore Sixty Eight Lakh Eighty Six Thousand Two Hundred Thirty Seven Only
+8688564	Rupees Eighty Six Lakh Eighty Eight Thousand Five Hundred Sixty Four Only
+20149864	Rupees Two Crore One Lakh Forty Nine Thousand Eight Hundred Sixty Four Only
+13058434	Rupees One Crore Thirty Lakh Fifty Eight Thousand Four Hundred Thirty Four Only
+2864997	Rupees Twenty Eight Lakh Sixty Four Thousand Nine Hundred Ninety Seven Only
+20529887	Rupees Two Crore Five Lakh Twenty Nine Thousand Eight Hundred Eighty Seven Only
+37567706	Rupees Three Crore Seventy Five Lakh Sixty Seven Thousand Seven Hundred Six Only
+55851106	Rupees Five Crore Fifty Eight Lakh Fifty One Thousand One Hundred Six Only
+34248120	Rupees Three Crore Forty Two Lakh Forty Eight Thousand One Hundred Twenty Only
+2117833	Rupees Twenty One Lakh Seventeen Thousand Eight Hundred Thirty Three Only
+96711068	Rupees Nine Crore Sixty Seven Lakh Eleven Thousand Sixty Eight Only
+50974526	Rupees Five Crore Nine Lakh Seventy Four Thousand Five Hundred Twenty Six Only
+98243544	Rupees Nine Crore Eighty Two Lakh Forty Three Thousand Five Hundred Forty Four Only
+16799450	Rupees One Crore Sixty Seven Lakh Ninety Nine Thousand Four Hundred Fifty Only
+53224752	Rupees Five Crore Thirty Two Lakh Twenty Four Thousand Seven Hundred Fifty Two Only
+7372765	Rupees Seventy Three Lakh Seventy Two Thousand Seven Hundred Sixty Five Only
+54893698	Rupees Five Crore Forty Eight Lakh Ninety Three Thousand Six Hundred Ninety Eight Only
+95516545	Rupees Nine Crore Fifty Five Lakh Sixteen Thousand Five Hundred Forty Five Only
+19723037	Rupees One Crore Ninety Seven Lakh Twenty Three Thousand Thirty Seven Only
+30561406	Rupees Three Crore Five Lakh Sixty One Thousand Four Hundred Six Only
+3416802	Rupees Thirty Four Lakh Sixteen Thousand Eight Hundred Two Only
+6547123	Rupees Sixty Five Lakh Forty Seven Thousand One Hundred Twenty Three Only
+81387337	Rupees Eight Crore Thirteen Lakh Eighty Seven Thousand Three Hundred Thirty Seven Only
+85129472	Rupees Eight Crore Fifty One Lakh Twenty Nine Thousand Four Hundred Seventy Two Only
+67213233	Rupees Six Crore Seventy Two Lakh Thirteen Thousand Two Hundred Thirty Three Only
+12313934	Rupees One Crore Twenty Three Lakh Thirteen Thousand Nine Hundred Thirty Four Only
+47778620	Rupees Four Crore Seventy Seven Lakh Seventy Eight Thousand Six Hundred Twenty Only
+68035467	Rupees Six Crore Eighty Lakh Thirty Five Thousand Four Hundred Sixty Seven Only
+90601464	Rupees Nine Crore Six Lakh One Thousand Four Hundred Sixty Four Only
+40949577	Rupees Four Crore Nine Lakh Forty Nine Thousand Five Hundred Seventy Seven Only
+44346157	Rupees Four Crore Forty Three Lakh Forty Six Thousand One Hundred Fifty Seven Only
+33139228	Rupees Three Crore Thirty One Lakh Thirty Nine Thousand Two Hundred Twenty Eight Only
+51427515	Rupees Five Crore Fourteen Lakh Twenty Seven Thousand Five Hundred Fifteen Only
+87535939	Rupees Eight Crore Seventy Five Lakh Thirty Five Thousand Nine Hundred Thirty Nine Only
+24133549	Rupees Two Crore Forty One Lakh Thirty Three Thousand Five Hundred Forty Nine Only
+84631658	Rupees Eight Crore Forty Six Lakh Thirty One Thousand Six Hundred Fifty Eight Only
+81636116	Rupees Eight Crore Sixteen Lakh Thirty Six Thousand One Hundred Sixteen Only
+47015846	Rupees Four Crore Seventy Lakh Fifteen Thousand Eight Hundred Forty Six Only
+84792672	Rupees Eight Crore Forty Seven Lakh Ninety Two Thousand Six Hundred Seventy Two Only
+82604096	Rupees Eight Crore Twenty Six Lakh Four Thousand Ninety Six Only
+86873601	Rupees Eight Crore Sixty Eight Lakh Seventy Three Thousand Six Hundred One Only
+32859538	Rupees Three Crore Twenty Eight Lakh Fifty Nine Thousand Five Hundred Thirty Eight Only
+12551212	Rupees One Crore Twenty Five Lakh Fifty One Thousand Two Hundred Twelve Only
+69024821	Rupees Six Crore Ninety Lakh Twenty Four Thousand Eight Hundred Twenty One Only
+74189656	Rupees Seven Crore Forty One Lakh Eighty Nine Thousand Six Hundred Fifty Six Only
+49218316	Rupees Four Crore Ninety Two Lakh Eighteen Thousand Three Hundred Sixteen Only
+34044725	Rupees Three Crore Forty Lakh Forty Four Thousand Seven Hundred Twenty Five Only
+71629856	Rupees Seven Crore Sixteen Lakh Twenty Nine Thousand Eight Hundred Fifty Six Only
+36366632	Rupees Three Crore Sixty Three Lakh Sixty Six Thousand Six Hundred Thirty Two Only

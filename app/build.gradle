@@ -1,0 +1,63 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'in.gov.pmegp.pv'
+    compileSdk 36
+
+    defaultConfig {
+        // C10 §5: must stay exactly this, or Play rejects the upload.
+        applicationId "com.pmegp.pv"
+        minSdk 29
+        targetSdk 36
+
+        // MAUI app is at versionCode 8 / "1.2". Start clear of it so the two
+        // projects can never collide while both exist.
+        versionCode 100
+        versionName "2.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        debug {
+            // C02-R01: UAT. The TLS bypass lives in src/debug only — see C02-R03.
+            buildConfigField "String", "BASE_HOST", '"https://59.95.101.93:8054"'
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            // C02-R01: switch to the live domain before any Play Store build.
+            buildConfigField "String", "BASE_HOST", '"https://59.95.101.93:8054"'
+        }
+    }
+
+    buildFeatures { viewBinding true; buildConfig true }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.8.7'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.8.7'
+    implementation 'androidx.lifecycle:lifecycle-process:2.8.7'
+    implementation 'androidx.security:security-crypto:1.1.0-alpha06'
+    implementation 'androidx.activity:activity:1.9.3'
+    implementation 'androidx.fragment:fragment:1.8.5'
+
+    // C02-R04: one OkHttp + one Retrofit, replacing 26 HttpClient instances.
+    implementation 'com.squareup.retrofit2:retrofit:2.11.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.11.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.12.0'
+
+    implementation 'com.google.android.gms:play-services-location:21.3.0'
+
+    testImplementation 'junit:junit:4.13.2'
+}

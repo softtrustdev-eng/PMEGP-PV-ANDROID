@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- C07 — carried from the MAUI Resources/Styles/Colors.xaml. -->
+<resources>
+    <color name="header_background">#4CAF50</color>
+    <color name="status_bar">#2D5F3F</color>
+    <color name="primary">#1976D2</color>
+    <color name="error">#D32F2F</color>
+    <color name="hint">#9E9E9E</color>
+    <color name="hint_text">#666666</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_disabled">#79747E</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_disabled">#F5F5F5</color>
+    <color name="outline_disabled">#BDBDBD</color>
+    <color name="nav_secondary">#6C757D</color>
+    <color name="scrim">#AA000000</color>
+</resources>

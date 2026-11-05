@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Verbatim from the MAUI app. Wording is specified, not incidental -
+     see the rule cited on each line. Do not reword without a tester sign-off. -->
+<resources>
+    <string name="app_name">PMEGP PV</string>
+
+    <!-- C04-R14 / C04-R15 -->
+    <string name="upload_size_hint">File size should be less than 2 MB.</string>
+    <string name="upload_too_large_title">File Too Large</string>
+    <string name="upload_too_large_body">The selected file exceeds the 2 MB limit. Please choose a smaller file.</string>
+
+    <!-- UV07-R20 -->
+    <string name="uv07_dialog_title">Employment Detail Incomplete</string>
+    <string name="uv07_gender_zero">Gender: enter employees — Total Number Of Employees cannot be 0.</string>
+    <string name="uv07_social_mismatch">Social Category: sum must be equal to Total Number Of Employees (%1$d). Currently %2$d.</string>
+    <string name="uv07_type_mismatch">Employment Type: sum must be equal to Total Number Of Employees (%1$d). Currently %2$d.</string>
+    <string name="uv07_wages_zero">Average Wages: amount paid per employee per month must be greater than 0.</string>
+
+    <!-- UV07-R06 / R07 / R08, inline group errors -->
+    <string name="uv07_gender_group_error">Enter employees in this section — Total Number Of Employees cannot be 0.</string>
+    <string name="uv07_social_group_error">Sum of Social Category must be equal to Total Number Of Employees (%1$d). Currently %2$d.</string>
+    <string name="uv07_type_group_error">Sum of Employment Type must be equal to Total Number Of Employees (%1$d). Currently %2$d.</string>
+    <string name="uv07_wages_field_error">Average wages paid per employee per month amount must be greater than 0</string>
+
+    <!-- UV07-R17 -->
+    <string name="uv07_save_failed_title">Error</string>
+    <string name="uv07_save_failed_body">Failed to save Employment</string>
+    <string name="uv07_saving">Saving details…</string>
+</resources>

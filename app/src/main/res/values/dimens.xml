@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- C07 — the standardised header, from PageHeaderStyle. -->
+<resources>
+    <dimen name="page_header_height">58dp</dimen>
+    <dimen name="page_header_title_size">16sp</dimen>
+</resources>
